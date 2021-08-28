@@ -1,10 +1,8 @@
 # Overview
-This code base is intended:
-- To help people learn how to program in C# who have no dev or C# experience at all. 
-- To have working projects, homework, and links for mentors who want to teach someone C#.
-- To provide clean code in order of increasing difficulty for self-study with programs that work and have related homework assignments.  All projects have a workign solution, see bottom of page to see what projects are included. 
-
-The ideal scenario is if you can find a dev to help walk you through these exercises, or someone who is willing to help out as needed/help with questions.  If not, these exercises can also be done alone but you will probably need help getting started with Visual Studio.
+This guide and code base is intended:
+- **Self study**: For anyone who wants to learn how to program in C# with no dev or C# experience at all.  The videos in the pre-reqs section should be enough to get you started on basics, and this project and repo is intended to be more in depth with hands-on projects and homework with solutions.
+- **Mentors**: For mentors to give a set of working projects, homework, and links to teach someone C#.
+- To provide clean code in order of increasing difficulty to get hands-on practice, a syllabus for progress, and enough videos to get started on your own without any help.
 
 # Syllabus
 Pair with the following syllabus I created and use this as a way to measure progress and a guide to what you need to learn to become a junior C# .NET developer: http://www.crystaltenn.com/2020/03/learn-c-from-scratch-comprehensive.html
@@ -80,6 +78,11 @@ Learn classes, properties, constructors, and basic object oriented programming
 The following is a screenshot of the contents in Visual Studio:
 
 ![image](https://user-images.githubusercontent.com/7976517/131232428-e86066e2-7432-42b2-9f0e-cef408199a85.png)
+
+# If you have a mentor.. additional advice:
+- If mentors can setup a GitHub or Azure DevOps project and work with you on a sprint basis, help you break down work into Epics/Features/User Stories/Tasks and teach you how to work in an Agile/Scrum environment this will help you adjust to working and estimating work.  Also then you will understand what it's like to be in a sprint in a very hands-on manner. 
+- If mentors can have you fork this repo, then create a branch, do your work, do a pull request, describe what you did, then they review and leave comments on your pull request, you will learn how developers push and work on code everyday! Also it will really help you with your Git skills and confidence! 
+- The above two will help you with both interviews and working in your actual job and help ease your transition into dev work!
 
 # Additional Content to learn
 These resources are unrelated to Project and can be done at anytime before/after/during project content but are very useful to becoming a software engineer and will help you get started at work quicker.
